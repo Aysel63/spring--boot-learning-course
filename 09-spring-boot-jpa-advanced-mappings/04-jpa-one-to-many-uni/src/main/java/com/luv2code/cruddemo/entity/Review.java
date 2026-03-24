@@ -1,0 +1,5 @@
+package com.luv2code.cruddemo.entity;
+
+@Entity
+public class Review {
+}
