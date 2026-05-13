@@ -33,7 +33,7 @@ public class AopdemoApplication {
 //        // do it again!
 //        System.out.println("\n lets call it again!\n");
 //
-//        // call the buiness method again
+//        // call the business method again
 //        theAccountDAO.addAccount();
 
     }
